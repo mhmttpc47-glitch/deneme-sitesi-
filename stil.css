@@ -1,0 +1,14 @@
+ body {
+  background-color: #f0f8ff; /* Sayfa arka plan rengi */
+  font-family: sans-serif;    /* Yazı tipi */
+  color: #333;               /* Yazı rengi */
+  line-height: 1.6;           /* Satır yüksekliği */
+}
+
+h1 {
+  color: #005a9c; /* Başlık rengi */
+}
+
+p {
+  font-size: 18px; /* Paragraf yazı boyutu */
+}
